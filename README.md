@@ -4,6 +4,7 @@ no anos de 2020 e óbitos por SRAG de anos anteriores. Dados de 09/07/2020
 
 #### Fonte de dados:
 OpenDataSus: https://opendatasus.saude.gov.br/dataset/
-Coronavírus Brasil:https://covid.saude.gov.br/
+
+Coronavírus Brasil: https://covid.saude.gov.br/
 
 #### Trabalho feito por Davi das Neves Machado 
